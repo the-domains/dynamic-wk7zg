@@ -1,4 +1,3 @@
-layout_spectrum: 0.345166505780071
 typography_spectrum: 0.2018744230736047
 color:
   brandStrength: 0.8791994005441666
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.345166505780071
 name: Dynamic
 title: Dynamic
+description: Dynamic Group of Companies
