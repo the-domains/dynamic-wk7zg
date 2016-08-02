@@ -1,0 +1,14 @@
+layout_spectrum: 0.345166505780071
+typography_spectrum: 0.2018744230736047
+color:
+  brandStrength: 0.8791994005441666
+  lightness: 0.9624217953532934
+  saturation: 0.6312480387277901
+  rhythmicContrast: 0.5372128896415234
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Dynamic
