@@ -6,9 +6,10 @@ color:
   saturation: 0.6312480387277901
   rhythmicContrast: 0.5372128896415234
   brandColors:
-    - '#FCFCFC'
-    - '#0B0B0B'
-    - '#966448'
-    - '#54301F'
-    - '#BCC3C9'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Dynamic
+title: Dynamic
